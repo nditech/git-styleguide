@@ -1,4 +1,4 @@
-NDITech Styleguid
+NDITech Styleguide
 ==============================
 
 **Forked from http://udacity.github.io/git-styleguide/**
