@@ -1,22 +1,12 @@
-NDITech Styleguide
-==============================
-
-**Forked from http://udacity.github.io/git-styleguide/**
-
- Udacity Nanodegree Style Guide    
-
-*   [HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-*   [CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-*   [JavaScript](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-*   [Git](index.html)
-
-Udacity Git Commit Message Style Guide
+NDITech Git Commit Message Style Guide
 ======================================
 
 Introduction
 ------------
 
-This style guide acts as the official guide to follow in your projects. Udacity evaluators will use this guide to grade your projects. There are many opinions on the "ideal" style in the world of development. Therefore, in order to reduce the confusion on what style students should follow during the course of their projects, we urge all students to refer to this style guide for their projects.
+There are many opinions on the "ideal" style in the world of development. Therefore, in order to reduce the confusion on what style internal and external developers should follow during the course of their projects, we urge all technical team members to refer to this style guide for their projects.
+
+Another good reason to follow the a common commit style guide is that it allows us to later automatically generate CHANGELOG.md from your commit messages. An example of CHANGELOG exporter script is available here. If interested, check out this blog for more information on CHANGELOG.
 
 Commit Messages
 ---------------
@@ -90,3 +80,13 @@ The footer is optional and is used to reference issue tracker IDs.
     
     Resolves: #123
     See also: #456, #789
+
+
+**Forked from http://udacity.github.io/git-styleguide/**
+
+Other references: Udacity Style Guide    
+
+*   [HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+*   [CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+*   [JavaScript](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+*   [Git](index.html)
