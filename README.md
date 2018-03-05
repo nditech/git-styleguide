@@ -6,7 +6,7 @@ Introduction
 
 There are many opinions on the "ideal" style in the world of development. Therefore, in order to reduce the confusion on what style internal and external developers should follow during the course of their projects, we urge all technical team members to refer to this style guide for their projects.
 
-Another good reason to follow the a common commit style guide is that it allows us to later automatically generate CHANGELOG.md from your commit messages. An example of CHANGELOG exporter script is available here. If interested, check out this blog for more information on CHANGELOG.
+Reasons to follow this commit style guide is that it allows us to later automatically generate [CHANGELOG.md](http://changelog.md/) from commit messages. An example of CHANGELOG exporter script is [available here](https://github.com/rafinskipg/git-changelog). If interested, check out this blog for more information on [CHANGELOG](http://keepachangelog.com/).
 
 Commit Messages
 ---------------
@@ -82,9 +82,9 @@ The footer is optional and is used to reference issue tracker IDs.
     See also: #456, #789
 
 
-**Forked from http://udacity.github.io/git-styleguide/**
+**View Hosted Version here https://nditech.github.io/git-styleguide/**
 
-Other references: Udacity Style Guide    
+Forked from Udacity Style guide doc. Other references:   
 
 *   [HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
 *   [CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
