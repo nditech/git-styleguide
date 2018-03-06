@@ -84,9 +84,12 @@ The footer is optional and is used to reference issue tracker IDs.
 
 **View Hosted Version here https://nditech.github.io/git-styleguide/**
 
-Forked from Udacity Style guide doc. Other references:   
+Forked from Udacity Style guide doc linked below. 
 
-*   [HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-*   [CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
-*   [JavaScript](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-*   [Git](index.html)
+## References
+* [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+* [agis-/git-style-guide](https://github.com/agis-/git-style-guide)
+* [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+* [5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+* [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+* [Udacity - How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
